@@ -3,10 +3,10 @@ import re
 import codecs
 import urllib2
 
-ckey = 't4QC64cWJirErImk8vYgfI4dp'
-csecret = 'zKejdBZF2naHLzywCn9MKDkBoHVPtZKgmSeLjTdVnDCYJZU8cI'
-atoken = '821906769660231681-G55JEXSZK5hdXjVf8Q1sZQDsQeF0yRn'
-asecret = '8FFgBdjuTCnXvXm3O9qBnBwgEuPtzwCcmFywV0FFAq1hq'
+ckey = ''
+csecret = ''
+atoken = ''
+asecret = ''
 list_hashtag = []
 new_list_hashtag = []
 count = 0
